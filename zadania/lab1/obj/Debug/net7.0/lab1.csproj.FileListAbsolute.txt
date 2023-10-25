@@ -1,0 +1,14 @@
+C:\Users\Unite\w67710\w67710_ProgramowanieObiektowe_GL03_3IID-2023\zadania\lab1\obj\Debug\net7.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unite\w67710\w67710_ProgramowanieObiektowe_GL03_3IID-2023\zadania\lab1\obj\Debug\net7.0\lab1.AssemblyInfoInputs.cache
+C:\Users\Unite\w67710\w67710_ProgramowanieObiektowe_GL03_3IID-2023\zadania\lab1\obj\Debug\net7.0\lab1.AssemblyInfo.cs
+C:\Users\Unite\w67710\w67710_ProgramowanieObiektowe_GL03_3IID-2023\zadania\lab1\obj\Debug\net7.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Unite\w67710\w67710_ProgramowanieObiektowe_GL03_3IID-2023\zadania\lab1\bin\Debug\net7.0\lab1.exe
+C:\Users\Unite\w67710\w67710_ProgramowanieObiektowe_GL03_3IID-2023\zadania\lab1\bin\Debug\net7.0\lab1.deps.json
+C:\Users\Unite\w67710\w67710_ProgramowanieObiektowe_GL03_3IID-2023\zadania\lab1\bin\Debug\net7.0\lab1.runtimeconfig.json
+C:\Users\Unite\w67710\w67710_ProgramowanieObiektowe_GL03_3IID-2023\zadania\lab1\bin\Debug\net7.0\lab1.dll
+C:\Users\Unite\w67710\w67710_ProgramowanieObiektowe_GL03_3IID-2023\zadania\lab1\bin\Debug\net7.0\lab1.pdb
+C:\Users\Unite\w67710\w67710_ProgramowanieObiektowe_GL03_3IID-2023\zadania\lab1\obj\Debug\net7.0\lab1.dll
+C:\Users\Unite\w67710\w67710_ProgramowanieObiektowe_GL03_3IID-2023\zadania\lab1\obj\Debug\net7.0\refint\lab1.dll
+C:\Users\Unite\w67710\w67710_ProgramowanieObiektowe_GL03_3IID-2023\zadania\lab1\obj\Debug\net7.0\lab1.pdb
+C:\Users\Unite\w67710\w67710_ProgramowanieObiektowe_GL03_3IID-2023\zadania\lab1\obj\Debug\net7.0\lab1.genruntimeconfig.cache
+C:\Users\Unite\w67710\w67710_ProgramowanieObiektowe_GL03_3IID-2023\zadania\lab1\obj\Debug\net7.0\ref\lab1.dll
