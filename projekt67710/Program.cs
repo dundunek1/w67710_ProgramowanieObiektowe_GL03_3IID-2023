@@ -2,7 +2,7 @@
 using ConsoleApp1.Models;
 using ConsoleApp1.Utils;
 
-
+//Jakub Pawlik w67710
 namespace ConsoleApp1
 {
     internal class Program
